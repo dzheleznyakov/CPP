@@ -1,7 +1,7 @@
 #include <iostream>;
 using namespace std;
 
-int main() {
+int mainE1_3() {
 	cout << "Hello World!" << endl;
 	char input {' '};
 	cout << "To exit, press 'm' and then 'Enter' key." << endl;
