@@ -1,6 +1,6 @@
 #include <iostream>;
 
-int main() {
+int mainE2_02() {
 	unsigned int yards {}, feet {}, inches {};
 
 	std::cout << "Enter a distance as yards, feet, and inches "
