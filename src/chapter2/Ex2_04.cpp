@@ -6,7 +6,7 @@ using std::cout;
 using std::cin;
 using std::sqrt;
 
-int main() {
+int mainE2_04() {
 	const double fish_factor {2.0/0.5};
 	const double inches_per_foot {12.0};
 	const double pi {3.14159265};
