@@ -1,7 +1,10 @@
 #include <limits>
 #include <iostream>
 
-int main() {
+int mainE2_06() {
+	std::cout << "The range for type char is from "
+				  << static_cast<int>(std::numeric_limits<char>::min()) << " to "
+				  << static_cast<int>(std::numeric_limits<char>::max()) << std::endl;
 	std::cout << "The range for type short is from "
 			  << std::numeric_limits<short>::min() << " to "
 			  << std::numeric_limits<short>::max() << std::endl;
@@ -20,4 +23,16 @@ int main() {
 	std::cout << "The range for type long double is from "
 			  << std::numeric_limits<long double>::min() << " to "
 			  << std::numeric_limits<long double>::max() << std::endl;
+	std::cout << "The range for type unsigned char is from "
+					  << static_cast<int>(std::numeric_limits<unsigned char>::min()) << " to "
+					  << static_cast<int>(std::numeric_limits<unsigned char>::max()) << std::endl;
+	std::cout << "The range for type unsigned short is from "
+				  << std::numeric_limits<unsigned short>::min() << " to "
+				  << std::numeric_limits<unsigned short>::max() << std::endl;
+	std::cout << "The range for type unsigned int if from "
+			  << std::numeric_limits<unsigned int>::min() << " to "
+			  << std::numeric_limits<unsigned int>::max() << std::endl;
+	std::cout << "The range for type unsigned long is from "
+				  << std::numeric_limits<unsigned long>::min() << " to "
+				  << std::numeric_limits<unsigned long>::max() << std::endl;
 }
