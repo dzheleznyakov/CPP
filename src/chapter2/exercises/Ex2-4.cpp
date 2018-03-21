@@ -2,7 +2,7 @@
 #include <cmath>
 #include <iomanip>
 
-int main() {
+int mainE2_4() {
 	const double inches_per_foot {12};
 	const double pi {3.14159265};
 	const double pi_degrees {180};
