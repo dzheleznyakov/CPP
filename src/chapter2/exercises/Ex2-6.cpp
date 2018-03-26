@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int mainE2_6() {
 	const double pounds_per_kilo {2.2};
 	const double meters_per_foot {0.3048};
 
