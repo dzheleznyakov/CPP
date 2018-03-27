@@ -3,7 +3,7 @@
 
 using std::setw;
 
-int main() {
+int mainL3_02() {
 	enum class Day { Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday}
 		yesterday {Day::Monday}, today {Day::Tuesday};
 	Day poets_day {Day::Friday};
