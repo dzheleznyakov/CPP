@@ -3,7 +3,7 @@
 
 using std::setw;
 
-int main() {
+int mainE3_6() {
 	enum class Color : unsigned int {
 		Red = 0xff0000,
 	    Green = 0x00ff00,
