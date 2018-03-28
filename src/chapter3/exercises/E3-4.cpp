@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-int main() {
+int mainE3_4() {
 	int num {0};
 	char ch {};
 	std::cout << "Enter four characters: ";
