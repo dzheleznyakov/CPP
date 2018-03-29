@@ -1,6 +1,6 @@
 #include <iostream>
 
-int mainL4_06() {
+int mainL4_05() {
 	int age {};
 	int income {};
 	int balance {};

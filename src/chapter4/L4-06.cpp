@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int mainL4_06() {
 	int mice {};
 	int brown {};
 	int white {};
