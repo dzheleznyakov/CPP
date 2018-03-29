@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int mainL4_03() {
 	char letter {};
 	std::cout << "Enter a letter: ";
 	std::cin >> letter;
