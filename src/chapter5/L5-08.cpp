@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <locale>
 
-int main() {
+int mainL5_08() {
 	size_t table {};
 	const size_t table_min {2};
 	const size_t table_max {12};
