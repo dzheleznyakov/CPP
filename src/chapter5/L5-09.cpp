@@ -3,7 +3,7 @@
 #include <cctype>
 #include <limits>
 
-int main() {
+int mainL5_09() {
 	std::cout << std::numeric_limits<unsigned char>::max() << std::endl;
 
 	std::cout << std::setw(11) << "Character " << std::setw(13) << "Hexadecimal "
