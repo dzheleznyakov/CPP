@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int mainL5_12() {
 	const size_t max_str {80};
 	char stars[][max_str] {
 		"Fatty Arbuckle", "Clara Bow",
