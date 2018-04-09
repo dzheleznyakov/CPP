@@ -1,7 +1,7 @@
 #include <iostream>
 #include <locale>
 
-int main() {
+int mainE5_3() {
 	char ch {' '};
 	unsigned int count {};
 	std::cout << "Enter a string (put '#' at the end of the string): ";
