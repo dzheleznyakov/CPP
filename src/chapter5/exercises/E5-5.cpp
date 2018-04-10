@@ -5,7 +5,7 @@
 
 using std::vector;
 
-int main() {
+int mainE5_5() {
 	vector<unsigned int> product_ids {};
 	vector<unsigned int> quantities {};
 	vector<double> unit_prices{};
@@ -45,5 +45,5 @@ int main() {
 				  << "$" << cost
 				  << std::endl;
 	}
-	std::cout << std::setw(60) << std::setfill(' ') << "$" << total << std::endl;
+	std::cout << std::right << std::setw(61) << "$" << total << std::endl;
 }
