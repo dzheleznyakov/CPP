@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 
-int main() {
+int mainL6_04() {
 	const size_t max {100};
 	long primes[max] {2L, 3L, 5L};
 	size_t count {3};
