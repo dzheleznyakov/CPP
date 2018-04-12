@@ -4,7 +4,7 @@
 
 using std::vector;
 
-int main() {
+int mainE6_3() {
 	size_t size {};
 	std::cout << "Enter the number of elements: ";
 	std::cin >> size;
