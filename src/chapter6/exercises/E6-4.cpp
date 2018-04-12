@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cmath>
 
-int main() {
+int mainE6_4() {
 	const size_t narrays {3};
 	const size_t nelements {6};
 	auto arrays = new int*[narrays];
