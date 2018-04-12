@@ -7,7 +7,7 @@
 using std::vector;
 using std::shared_ptr;
 
-int main() {
+int mainL6_06() {
 	vector<shared_ptr<vector<double>>> records;
 	size_t day {1};
 	char answer {};
