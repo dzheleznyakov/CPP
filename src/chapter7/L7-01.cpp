@@ -3,7 +3,7 @@
 
 using std::string;
 
-int main() {
+int mainL7_01() {
 	string first;
 	string second;
 
