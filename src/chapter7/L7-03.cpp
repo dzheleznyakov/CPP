@@ -6,7 +6,7 @@
 
 using std::string;
 
-int main() {
+int mainL7_03() {
 	std::vector<string> names;
 	string input_name;
 	char answer {};
